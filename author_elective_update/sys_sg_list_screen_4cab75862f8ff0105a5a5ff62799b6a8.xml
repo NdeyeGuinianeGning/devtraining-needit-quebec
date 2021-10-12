@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>View all open NeedIt records for a specific Request type</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Plus">8cab75862f8ff0105a5a5ff62799b6a4</icon>
+        <name>By Request Type</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 16:48:15</sys_created_on>
+        <sys_id>4cab75862f8ff0105a5a5ff62799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>By Request Type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_list_screen_4cab75862f8ff0105a5a5ff62799b6a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 16:48:15</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=4cab75862f8ff0105a5a5ff62799b6a8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9ea1d0f7dbe51b40b2e05d00cf96192e</instance_id>
+        <instance_name>dev57200</instance_name>
+        <name>sys_sg_list_screen_4cab75862f8ff0105a5a5ff62799b6a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>View all open NeedIt records for a specific Request type</description><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Plus">8cab75862f8ff0105a5a5ff62799b6a4</icon><name>By Request Type</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-08 16:48:15</sys_created_on><sys_id>4cab75862f8ff0105a5a5ff62799b6a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>By Request Type</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_list_screen_4cab75862f8ff0105a5a5ff62799b6a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-08 16:48:15</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=4cab75862f8ff0105a5a5ff62799b6a8"/></record_update>]]></payload>
+        <payload_hash>-211099279</payload_hash>
+        <record_name>By Request Type</record_name>
+        <reverted_from/>
+        <source>240a4d2a2fa130105a5a5ff62799b6a9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 16:48:15</sys_created_on>
+        <sys_id>00ab75862f8ff0105a5a5ff62799b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c60ce28550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 16:48:15</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>48ab75866b8ff010a9a6613fdb85eeab</update_guid>
+        <update_guid_history>48ab75866b8ff010a9a6613fdb85eeab:-211099279</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-11 10:09:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>714d8efc02ea44379bebe1e567914099</sys_id>
+        <sys_metadata>4cab75862f8ff0105a5a5ff62799b6a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>By Request Type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_4cab75862f8ff0105a5a5ff62799b6a8</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_4cab75862f8ff0105a5a5ff62799b6a8">00ab75862f8ff0105a5a5ff62799b6ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 10:09:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
